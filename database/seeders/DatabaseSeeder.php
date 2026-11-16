@@ -31,7 +31,7 @@ class DatabaseSeeder extends Seeder
             ['B001', 'Laskar Pelangi', 'Andrea Hirata', 'Bentang Pustaka', 2005, 'Novel', 5],
             ['B002', 'Bumi Manusia', 'Pramoedya Ananta Toer', 'Hasta Mitra', 1980, 'Novel', 3],
             ['B003', 'Pemrograman Web dengan Laravel', 'Tim Penulis RPL', 'Informatika', 2024, 'Teknologi', 4],
-            ['B004', 'Basis Data MySQL untuk Pemula', 'Budi Raharjo', 'Informatika', 2022, 'Teknologi', 4],
+            ['B004', 'Basis Data MySQL untuk Pemula', 'Riaqi Gibran', 'Informatika', 2022, 'Teknologi', 4],
             ['B005', 'Matematika SMK Kelas XII', 'Tim Kemdikbud', 'Kemdikbud', 2023, 'Pelajaran', 6],
             ['B006', 'Bahasa Indonesia SMK', 'Tim Kemdikbud', 'Kemdikbud', 2023, 'Pelajaran', 6],
             ['B007', 'Atomic Habits (Terjemahan)', 'James Clear', 'Gramedia', 2019, 'Pengembangan Diri', 2],
